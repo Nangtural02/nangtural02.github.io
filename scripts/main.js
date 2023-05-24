@@ -27,7 +27,7 @@ myTitle.onclick = function(){
     }
 }
 
-document.querySelector('ul').onclick = function(){
+document.querySelector('span').onclick = function(){
     alert('프사기');
 }
 
